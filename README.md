@@ -7,4 +7,4 @@ Certificate
 
 Activity
 : 1. Spanish Overseas Intern
-  2. GDSC TUK Member
+2. GDSC TUK Member
