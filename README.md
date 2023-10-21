@@ -8,7 +8,7 @@
 ### Activity 📊
 1. Spanish Overseas Intern(2023.06.30 ~ 2023.08.31)
 - Web Design
-3. GDSC TUK Member(FrontEnd)
+2. GDSC TUK Member(FrontEnd)
 
 <div align=center><h1>📚 FRONTEND STACKS</h1></div>
 
@@ -16,7 +16,8 @@
 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/next-white?style=for-the-badge&logo=react&logoColor=black">
   <img alt="Styled-Components" src="https://img.shields.io/badge/Styled Components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
 
   <br>
