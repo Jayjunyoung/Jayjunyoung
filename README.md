@@ -8,3 +8,16 @@
 ### Activity 📊
 1. Spanish Overseas Intern(2023.06.30 ~ 2023.08.31)
 2. GDSC TUK Member(FrontEnd)
+
+<div align=center><h1>📚 STACKS</h1></div>
+
+<div align=center> 
+
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+
+  <br>
+</div>
