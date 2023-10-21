@@ -9,9 +9,9 @@
 1. Spanish Overseas Intern(2023.06.30 ~ 2023.08.31)
 2. GDSC TUK Member(FrontEnd)
 
-<div align=center><h1>📚 FrontEnd STACKS</h1></div>
+<div align=center><h1>📚 FRONTEND STACKS</h1></div>
 
-<div align=left> 
+<div align=center> 
 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
