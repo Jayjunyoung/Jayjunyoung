@@ -7,4 +7,4 @@
 
 ### Activity 📊
 1. Spanish Overseas Intern(2023.06.30 ~ 2023.08.31)
-2. GDSC TUK Member
+2. GDSC TUK Member(FrontEnd)
