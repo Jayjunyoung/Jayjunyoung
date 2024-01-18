@@ -2,6 +2,9 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jk9829249)](https://solved.ac/jk9829249)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayjunyoung&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Certificate 📄
 1. 정보처리산업기사(2022.11.25)
 
