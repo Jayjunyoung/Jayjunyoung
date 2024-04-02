@@ -11,12 +11,13 @@
 
 ### Certificate 🪪
 1. 정보처리산업기사(2022.11.25)
-2. 정보처리기사 필기 합격✅ / 실기 예정 
+2. 정보처리기사 필기 합격✅ / 실기 예정(04.27) 
 
 ### Activity 📊
 1. Spanish Overseas Intern(2023.06.30 ~ 2023.08.31)
 - Web Design
-2. GDSC TUK Member(FrontEnd)
+2. GDSC TUK 1st Member(Gratudated Member, FrontEnd)
+3. UMC TUK 6th Member(FrontEnd)
 
 <div align=center><h1>📚 FRONTEND STACKS</h1></div>
 
