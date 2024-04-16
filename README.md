@@ -17,7 +17,8 @@
 1. Spanish Overseas Intern(2023.06.30 ~ 2023.08.31)
 - Web Design
 2. GDSC TUK 1st Member(graduating Member, FrontEnd)
-3. UMC TUK 6th Member(FrontEnd) - 2024.03.23 ~ ing 
+3. UMC TUK 6th Member(FrontEnd) - 2024.03.23 ~ ing
+4. CBU TUK 20th Member(FrontEnd) - 2024.03.01 ~ ing 
 
 <div align=center><h1>📚 FRONTEND STACKS</h1></div>
 
