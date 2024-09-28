@@ -20,7 +20,7 @@
 - Web Design
 2. GDSC TUK 1st Member(graduating Member, FrontEnd)
 3. UMC TUK 6th Member(FrontEnd) - 2024.03.23 ~ 2024.08.26
-4. CBU TUK 20th Member(FrontEnd) - 2024.03.01 ~ ing 
+4. CBU TUK 20th Member(FrontEnd) - 2024.03.01 ~ 2024.08.28
 
 <div align=center><h1>📚 FRONTEND STACKS</h1></div>
 
