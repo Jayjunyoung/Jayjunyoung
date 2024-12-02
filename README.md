@@ -16,8 +16,7 @@
 3. 컴퓨터활용능력시험 1급(2022.07.22) 
 
 ### Activity 📊
-1. Spanish Overseas Intern(2023.06.30 ~ 2023.08.31)
-- Web Design
+1. Spanish Overseas Intern(2023.06.30 ~ 2023.08.31) - Web Publishing
 2. GDSC TUK 1st Member(graduating Member, FrontEnd)
 3. UMC TUK 6th Member(FrontEnd) - 2024.03.23 ~ 2024.08.26
 4. CBU TUK 20th Member(FrontEnd) - 2024.03.01 ~ 2024.08.28
