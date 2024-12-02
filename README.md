@@ -22,6 +22,10 @@
 3. UMC TUK 6th Member(FrontEnd) - 2024.03.23 ~ 2024.08.26
 4. CBU TUK 20th Member(FrontEnd) - 2024.03.01 ~ 2024.08.28
 
+### Awards 👑 
+1. 한국공학대전 우수작(2024.09.24)
+2. 디지털 앱 기획 경진대회 장려상(2023.12.15)
+
 <div align=center><h1>📚 FRONTEND STACKS</h1></div>
 
 <div align=center> 
