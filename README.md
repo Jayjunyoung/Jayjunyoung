@@ -2,11 +2,11 @@
 
 <h2>My Portfolio💼  : https://portfolio-web-site-jayjunyoungs-projects.vercel.app/</h2>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jk9829249)](https://solved.ac/jk9829249)
-
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayjunyoung&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" height="200px"/>
+<div align="center">
+  <a href="https://solved.ac/jk9829249">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jk9829249" alt="Solved.ac 프로필" height="200px" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayjunyoung&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" height="200px" style="margin-left: 20px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayjunyoung&layout=compact&theme=tokyonight" alt="Top Langs" height="200px"/>
 </div>
 
