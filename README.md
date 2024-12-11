@@ -2,7 +2,7 @@
 
 <h2>My Portfolio💼  : https://portfolio-web-site-jayjunyoungs-projects.vercel.app/</h2>
 
-<div align="center">
+<div align="left">
   <a href="https://solved.ac/jk9829249">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jk9829249" alt="Solved.ac 프로필" height="200px" />
   </a>
