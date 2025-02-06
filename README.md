@@ -1,6 +1,6 @@
 <h1 align="center">My name is jun young Jung 👋</h1>
 
-<h2>My Portfolio💼  : https://portfolio-web-site-jayjunyoungs-projects.vercel.app/</h2>
+<h2>My Portfolio💼  : https://portfolio-web-site-drab.vercel.app</h2>
 
 <div align="left">
   <a href="https://solved.ac/jk9829249">
