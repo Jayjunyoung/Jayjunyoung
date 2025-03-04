@@ -1,4 +1,4 @@
-<h1 align="center">My name is jun young Jung 👋</h1>
+<h1 align="center">사용자 경험 개선에 집중하는 프론트엔드 엔지니어 정준영 입니다. 👋</h1>
 
 <h2>My Portfolio💼  : https://portfolio-web-site-drab.vercel.app</h2>
 
