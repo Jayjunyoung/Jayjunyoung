@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayjunyoung&layout=compact&theme=tokyonight" alt="Top Langs" height="200px"/>
 </div>
 
-### Career 🧑🏻‍💼
+### Career 💼
 ![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-04C75A?style=flat&logo=naver&logoColor=white) <br>
 Frontend Intern | Data AI팀 | 2025.04.14 ~ 2025.07.11(재직 예정)
 
