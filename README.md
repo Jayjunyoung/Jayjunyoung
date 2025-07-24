@@ -11,7 +11,7 @@
 
 ### Career 💼
 ![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-04C75A?style=flat&logo=naver&logoColor=white) <br>
-Frontend Intern | Data AI팀 | 2025.04.14 ~ 2025.07.11<br>
+Frontend Intern | Data AI팀 | 2025.04.14 ~ 2025.10.02<br>
 <ul>
   <li>대웅제약 검진챗봇 프로토타입 개발</li>
 </ul>
