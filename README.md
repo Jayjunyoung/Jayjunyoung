@@ -2,11 +2,14 @@
 
 
 <div align="left">
-  <a href="https://solved.ac/jk9829249">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jk9829249" alt="Solved.ac 프로필" height="200px" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayjunyoung&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" height="200px" style="margin-left: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayjunyoung&layout=compact&theme=tokyonight" alt="Top Langs" height="200px"/>
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jayjunyoung&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jayjunyoung&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ### Career 💼
