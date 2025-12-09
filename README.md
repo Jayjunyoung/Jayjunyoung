@@ -3,10 +3,6 @@
 
 <div align="left">
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jayjunyoung&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 </div>
 
 ### Career 💼
