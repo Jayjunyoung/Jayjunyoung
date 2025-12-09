@@ -11,10 +11,10 @@
 
 ### Career 💼
 ![Healing Paper](https://img.shields.io/badge/힐링페이퍼(강남언니)-FF6B35?style=flat&logoColor=white) <br>
-Frontend Engineer(Intern) | 2025.12.15 ~ ing<br>
+<strong>Frontend Engineer(Intern) | 2025.12.15 ~ ing</strong><br>
 
 ![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-04C75A?style=flat&logo=naver&logoColor=white) <br>
-Frontend Engineer(Intern) | Applied AI Service | 2025.04.14 ~ 2025.10.02<br>
+<strong>Frontend Engineer(Intern) | Applied AI Service | 2025.04.14 ~ 2025.10.02</strong><br>
 <ul>
   <li>AI 기반 건강상담 서비스 프로토타입 개발</li>
   <li>강원대병원 병상용 의료진 호출·환자 관리 서비스 기능 개발 및 이관작업 참여</li>
