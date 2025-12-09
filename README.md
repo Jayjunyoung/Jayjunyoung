@@ -7,12 +7,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jayjunyoung&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jayjunyoung&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ### Career 💼
+![Healing Paper](https://img.shields.io/badge/힐링페이퍼(강남언니)-FF6B35?style=flat&logoColor=white) <br>
+Frontend Engineer(Intern) | 2025.12.15 ~ ing<br>
+
 ![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-04C75A?style=flat&logo=naver&logoColor=white) <br>
 Frontend Engineer(Intern) | Applied AI Service | 2025.04.14 ~ 2025.10.02<br>
 <ul>
