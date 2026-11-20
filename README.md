@@ -7,7 +7,7 @@
 
 ### Career 💼
 ![Healing Paper](https://img.shields.io/badge/힐링페이퍼(강남언니)-FF6B35?style=flat&logoColor=white) <br>
-<strong>Frontend Engineer(Intern) | Web Chapter - 필수도메인 sq | 2025.12.15 ~ ing</strong><br>
+<strong>Frontend Engineer(Intern) | Web Chapter - 필수도메인 sq | 2025.12.15 ~ 2026.09.11</strong><br>
 <ul>
   <li>레거시 Vue 코드를 분석하고 모던 React 패턴으로 재구성하는 마이그레이션 프로젝트에 참여하여 운영팀의 업무 효율성 개선</li>
 </ul>
