@@ -6,7 +6,7 @@
 </div>
 
 ### Career 💼
-![Nudge Healthcare](https://img.shields.io/badge/넛지헬스케어-F0A500?style=flat&logoColor=white) <br>
+![Nudge Healthcare](https://img.shields.io/badge/넛지헬스케어(캐시워크)-F0A500?style=flat&logoColor=white) <br>
 <strong>Frontend Engineer | Frontend Team | 2026.12.08 ~ ing</strong><br>
 <ul>
   <li>담당 업무 내용 추가 예정</li>
