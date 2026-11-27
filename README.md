@@ -6,6 +6,12 @@
 </div>
 
 ### Career 💼
+![Nudge Healthcare](https://img.shields.io/badge/넛지헬스케어-F0A500?style=flat&logoColor=white) <br>
+<strong>Frontend Engineer | Frontend Team | 2026.12.08 ~ 재직중</strong><br>
+<ul>
+  <li>담당 업무 내용 추가 예정</li>
+</ul>
+
 ![Healing Paper](https://img.shields.io/badge/힐링페이퍼(강남언니)-FF6B35?style=flat&logoColor=white) <br>
 <strong>Frontend Engineer(Intern) | Web Chapter - 필수도메인 sq | 2025.12.15 ~ 2026.09.11</strong><br>
 <ul>
